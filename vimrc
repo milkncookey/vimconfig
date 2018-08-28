@@ -65,7 +65,4 @@ let g:airline#extensions#tabline#show_tab_nr=0
 let g:airline#extensions#tabline#formatter='unique_tail_improved'
 
 let g:airline_powerline_fonts=1
-set t_Co=256
-colorscheme gruvbox
-set background=dark
-set t_ut=
+
