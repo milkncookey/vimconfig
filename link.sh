@@ -18,7 +18,7 @@ Also note that this will take ~10 minutes.
 Specifically state 'Yes' if so
 " yn
     case $yn in
-        Yes ) $DIR/install_YCM.sh; break;;
+        Yes ) $DIR/install_reqs.sh; $DIR/install_YCM.sh; break;;
         * ) echo "Continuing without installing YouCompleteMe"; break;;
     esac
 done
