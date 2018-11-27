@@ -14,8 +14,7 @@ ln -sf $DIR/vimrc ~/.vimrc
 while true; do
     read -p "Do you wish to also install YouCompleteMe vim plugin?
 Note that this requires python3, vim7.4.1+, build-essentials, and cmake3.
-Also note that this will take ~10 minutes.
-Specifically state 'Yes' if so
+Also note that this will take ~10 minutes. [Yes/no]
 " yn
     case $yn in
         Yes ) $DIR/install_reqs.sh; $DIR/install_YCM.sh; break;;
