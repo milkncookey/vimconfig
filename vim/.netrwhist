@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/ruben/Desktop/Neuropia/Neuropia/static/Neuron/Simulations/inhibitorysynapsesimulation'
 let g:netrw_dirhist_2='/home/ruben/Desktop/Neuropia/Neuropia/static/Neuron/Simulations'
+let g:netrw_dirhist_3='/home/ruben/Desktop/dotconfigs/tmuxconfig/tmux'
+let g:netrw_dirhist_4='/home/ruben/Desktop/EECS_485/eecs485_Project_1/.git'
+let g:netrw_dirhist_5='/home/ruben/Desktop/EECS_485/old_project1s/eecs485_Old/insta485/static'
+let g:netrw_dirhist_6='/home/ruben/Desktop/EECS_485/eecs485_Project_1/bin'
+let g:netrw_dirhist_7='/home/ruben/Desktop/EECS_485/eecs485_Project_1'
+let g:netrw_dirhist_8='/home/ruben/Desktop/EECS_485/eecs485_Project_1/bin'
+let g:netrw_dirhist_9='/home/ruben/Desktop/dotconfigs/tmuxconfig/tmux'
